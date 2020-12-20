@@ -1,0 +1,7 @@
+/bin
+/compile
+/include
+/lib
+/external_libs
+/integrationresults.csv
+/LaxODE.tar.gz
